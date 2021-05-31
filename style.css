@@ -1,0 +1,7 @@
+.menu { list-style: none; font-family: cursive; position:absolute; top:10px; right: 30px; z-index: 10; cursor: pointer; }
+.links{ float: left; color: #fff; padding-top: 5px; padding-left: 9px; padding-right: 9px; padding-bottom: 5px; font-family:fantasy; font-size: 20px }
+body{background: radial-gradient(circle, rgba(255,198,0,1) 4%, rgba(5,37,223,1) 47%, rgba(255,0,0,1) 100%);}
+#videos{text-align: center; padding: 50px   } 
+#Help{text-align: center; padding: 50px  } 
+#Home{text-align: center; padding: 50px  }
+#gallery{text-align: center}
